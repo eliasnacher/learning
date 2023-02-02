@@ -1,0 +1,32 @@
+{
+  "name": "John's Coffee Shop",
+  "location": "123 Main St, Anytown USA",
+  "phone_number": "555-555-1212",
+  "hours_of_operation": {
+    "Monday": "6:00 AM to 6:00 PM",
+    "Tuesday": "6:00 AM to 6:00 PM",
+    "Wednesday": "6:00 AM to 6:00 PM",
+    "Thursday": "6:00 AM to 6:00 PM",
+    "Friday": "6:00 AM to 6:00 PM",
+    "Saturday": "8:00 AM to 4:00 PM",
+    "Sunday": "Closed"
+  },
+  "menu_items": [
+    {
+      "name": "Espresso",
+      "description": "A shot of espresso.",
+      "price": 2.50
+    },
+    {
+      "name": "Latte",
+      "description": "A shot of espresso with steamed milk and foam.",
+      "price": 3.50
+    },
+    {
+      "name": "Cappuccino",
+      "description": "A shot of espresso with equal parts steamed milk and foam.",
+      "price": 3.50
+    }
+  ]
+}
+
